@@ -1,5 +1,5 @@
 ### Gregor Rekowski (@theGreski)
- Hi there 👋, I am Greg founder of <a href="https://www.cleverwater.ie/">CleverWater</a>, an utility billing and management system, maintener of <a href="https://github.com/theGreski/AzimuthJS">AzimuthJS</a>, a geographic calculations, and a contributor of <a href="https://github.com/focus-shift/jollyday">Jollyday</a>, a public holiday library.
+ Hi there 👋, I am Greg founder of <a href="https://www.cleverwater.ie/">CleverWater</a>, an utility billing and management system, and the maintener of <a href="https://github.com/theGreski/AzimuthJS">AzimuthJS</a>, a geographic calculations library.
 
 <!--
 **theGreski/theGreski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
